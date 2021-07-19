@@ -1,6 +1,6 @@
 [package]
 name = "diagrammatic_monte_carlo"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["astrojosh <48493357+astrojosh@users.noreply.github.com>"]
 edition = "2018"
 
